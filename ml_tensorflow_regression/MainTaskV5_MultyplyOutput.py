@@ -3,7 +3,7 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 import sys
 
-import DataHolder as dh
+import DataHandler as dh
 
 learning_rate=0.1
 learning_rate2=0.01

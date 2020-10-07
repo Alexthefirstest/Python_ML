@@ -1,0 +1,7 @@
+{"predictedResults":[
+{"parameters":[2, 4, 5], "predict":1.000},
+{"parameters":[1, 2, 3], "predict":1.000},
+{"parameters":[0, 3, 5], "predict":1.000},
+{"parameters":[17, 17, 26], "predict":2.000},
+{"parameters":[15, 15, 15], "predict":0.000}
+]}

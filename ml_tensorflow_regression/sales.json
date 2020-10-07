@@ -1,0 +1,14 @@
+{"sales":[
+{"soldObj": 1, "parameters":[1,2,3] } ,
+{"soldObj": 0, "parameters":[15,21,17] },
+{"soldObj": 1, "parameters":[2,3,4] } ,
+{"soldObj": 1, "parameters":[3,4,2] },
+{"soldObj": 0, "parameters":[17,22,19] },
+{"soldObj": 1, "parameters":[1,5,3] },
+{"soldObj": 2, "parameters":[30,27,32] },
+{"soldObj": 2, "parameters":[35,37,39] },
+{"soldObj": 2, "parameters":[33,29,30] },
+{"soldObj": 2, "parameters":[30,30,30] },
+{"soldObj": 2, "parameters":[34,28,31] },
+{"soldObj": 2, "parameters":[35,25,37] }
+]}
